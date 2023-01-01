@@ -7,7 +7,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thy-nguyen-ha-ai/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/thy-nguyen-ha-ai/" /></a>
+<a href="https://www.linkedin.com/in/thy-nguyen-ha-ai/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/thy-nguyen-ha-ai/" /></a>
 
 <h3 align="left">⚡️ Languages and Tools I Use</h3>
 <p align="left"> 
